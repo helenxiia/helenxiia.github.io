@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+    max-width: 500px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #333;
+    padding: 0 10px;
+    font-family: "helvetica-w01-bold",helvetica-w02-bold,helvetica-lt-w10-bold,sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.2
+}
