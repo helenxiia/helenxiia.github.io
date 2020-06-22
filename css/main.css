@@ -16,6 +16,8 @@
   font-size: 20px;
   color: #818181;
   display: block;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  text-align: left;
 }
 
 /* When you mouse over the navigation links, change their color */
@@ -43,7 +45,11 @@
   }
 }
 
-
+header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
 /* Style page content */
 .main {
   margin-left: 260px; /* Same as the width of the sidebar */
@@ -68,8 +74,8 @@
     text-align: center; 
 }
 img{
-    height: 25%;
-    width: 25%;
+    height: auto;
+    width: auto;
 }
 h1,h2,h3 {
     line-height: 1.2
